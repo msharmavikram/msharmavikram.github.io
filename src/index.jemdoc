@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+# jemdoc: analytics{UA-146867573-1}
+= Vikram Sharma Mailthody
+
+~~~
+{}{img_left}{photo.jpg}{}{135}{200}{}
+Vikram Sharma Mailthody\n
+Electrical and Computer Engineering Department\n
+University of Illinois, Urbana Champaign\n
+\n
+Office: Coordinate Science Laboratory, Room 227\n
+Email: vsm2 at illinois dot edu\n 
+[https://www.linkedin.com/in/vikramsharmam/ \[LinkedIn\]] 
+[https://www.facebook.com/msharmavikram \[Facebook\]] 
+[https://www.quora.com/profile/Vikram-Sharma-63 \[Quora\]] 
+[http://github.com/msharmavikram/ \[GitHub\]] 
+[https://scholar.google.com/citations?user=yITIJr8AAAAJ&hl=en \[Google Scholar\]] 
+
+
+~~~
+
+== Short Bio
+Vikram is a PhD Candidate at Electrical and Computer Engineering Department  of University of Illinois, Urbana Champaign.
+His research interests spans from machine learning applications to system architecture and programming for emerging processors and memory technologies (NVM, SSDs, etc) for GPUs and near-memory/storage accelerators.
+
+Vikram currently works with the IMPACT Research Group led by Prof. Wen-mei Hwu. He is a recipient of Bahl Fellowship for 2019-20.
+Prior to graduate program, he worked at Intel and LSI Corporation as Design engineer for three and one year, respectively. 
+He received his B.E. in Electronics and Communication Engineering at B.M.S College of Engineering, Bangalore.
+
+In his free time, Vikram is into photography, hiking or cooking delicious food (as other says).
+
+
+== Recent News
+
+: {*Aug  2019:* We got 2 awards in Graph Challenge, 2019 - Student Innovation Award for our work on k-truss decomposition and Honorable Mention Award for triangle counting!}
+: {*July  2019:* Our work DeepStore, supporting emerging deep-learning based data queries using in-storage acceleration was accepted in MICRO 2019!}
+: {*Feb  2019:* Received [https://ece.illinois.edu/academics/grad/fellowships/bahl Bahl Fellowship] for the year 2019-20! Thank You!}
+: {*Nov  2018:* Our work FlatFlash, enabling large memory capacity using byte-accessible SSDs was accepted in ASPLOS 2019!}
+: {*Aug  2018:* We got 2 awards in Graph Challenge, 2018 - Graph Challenge Finalist and Student Innovation Award for our work on triangle counting in GPUs and FPGA, respectively!}
+

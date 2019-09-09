@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+# jemdoc: analytics{UA-146867573-1}
+= Publications
+
+== Papers
+
+: {*DeepStore: In-Storage Acceleration for Intelligent Queries*}
+Vikram Sharma Mailthody\*, Zaid Qureshi\*, Weixin Liang, Ziyan Feng, SimonGarcia de Gonzalo, Youjie Li, Hubertus Franke, Jinjun Xiong, Jian Huang,and Wen-mei Hwu. \n
+/MICRO'19/ ***(acceptance rate: 79/344 = 22.9%)***\n
+[publications/paper/paper-deepstore-micro19.pdf \[paper\]] [publications/slides/slides-deepstore-micro19.pptx \[slides (TBA)\]] [publications/poster/poster-deepstore-micro19.pptx \[poster (TBA)\]] [publications/bib/bib-deepstore-micro19.bib \[bibtex\]] 
+
+: {*FlatFlash: Exploiting the Byte-Accessibility of SSDs Within a Unified Memory-Storage Hierarchy*}
+Ahmed Abulila, Vikram Sharma Mailthody, Zaid Qureshi, Jian Huang, Nam Sung Kim, Jinjun Xiong, and Wen-mei Hwu. \n
+/ASPLOS'19/ ***(acceptance rate: 74/350 = 21.1%)***\n
+[publications/paper/paper-flatflash-asplos19.pdf \[paper\]] [publications/slides/slides-flatflash-asplos19.pptx \[slides\]] [publications/poster/poster-flatflash-asplos19.pdf \[poster\]] [https://www.youtube.com/watch?v=QTmGx9-lLvM \[video\]] [publications/bib/bib-flatflash-asplos19.bib \[bibtex\]] 
+
+
+== Short Papers and Posters
+
+
+: {*Update on k-truss Decomposition on GPU*}
+Mohammad Almasri, Omer Anjum, Carl Pearson, Zaid Qureshi, Vikram Sharma Mailthody, Rakesh Nagi, Jinjun Xiong, Wen-mei Hwu. \n
+/HPEC'19 *Student Innovation Award*/\n
+[publications/paper/paper-graphchallengektruss-hpec19.pdf \[short paper (TBA)\]] [publications/poster/poster-graphchallengektruss-hpec19.pdf \[poster (TBA)\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\]]
+
+: {*Update on Triangle Counting on GPU*}
+Carl Pearson, Mohammad Almasri, Omer Anjum, Vikram Sharma Mailthody, Zaid Qureshi, Rakesh Nagi, Jinjun Xiong, Wen-mei Hwu. \n
+/HPEC'19 *Graph Challenge Honorable Mention*/\n
+[publications/paper/paper-graphchallengetc-hpec19.pdf \[short paper (TBA)\]] [publications/poster/poster-graphchallengetc-hpec19.pdf \[poster(TBA)\]] [publications/bib/bib-graphchallengetc-hpec19.bib \[bibtex\]]
+
+
+: {*Collaborative (CPU+ GPU) algorithms for triangle counting and truss decomposition*}
+Vikram Sharma Mailthody, Ketan Date, Zaid Qureshi, Carl Pearson, Rakesh Nagi, Jinjun Xiong, Wen-mei Hwu. \n
+/HPEC'18 *Graph Challenge Finalist*/\n
+[https://ieeexplore.ieee.org/document/8547517 \[short paper\]] [publications/poster/poster-graphchallenge-hpec18.pdf \[poster\]] [publications/bib/bib-graphchallenge-hpec18.bib \[bibtex\]]
+
+
+: {*Triangle Counting and Truss Decomposition using FPGA*}
+Sitao Huang, Mohamed El-Hadedy, Cong Hao, Qin Li, Vikram Sharma Mailthody, Ketan Date, Jinjun Xiong, Deming Chen, Rakesh Nagi, Wen-mei Hwu. \n
+/HPEC'18 *Student Innovation Award*/\n
+[https://ieeexplore.ieee.org/document/8547536 \[short paper\]] [publications/bib/bib-graphchallengefpga-hpec18.bib \[bibtex\]]
+
+
+== Talks
+
+: {*Architecture Implications of Model Parallelism on Large GPT2*, NVIDIA'19}
+: {*Efficient Triangle Counting on GPUs*, Boston, HPEC'18}
+
+
+== Patents
+
+: {*A system and methodology for implementing a Unified Memory-Storage Architecture with Byte-Addressable SSD*}
+Ahmed Abulila, Vikram Sharma Mailthody, Zaid Qureshi, Jian Huang, Nam Sung Kim,  Jinjun Xiong, Wen-Mei Hwu\n
+/filed May 2019./\n
+
+: {*Sequence Segmentation based Hardware Acceleration of Dynamic Programming Algorithms using Systolic Array of Pipelined Processing Engines*}
+Intel Corporation\n
+/filed Dec 2017./\n

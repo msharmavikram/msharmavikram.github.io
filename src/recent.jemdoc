@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{recent.html}, nofooter
+# jemdoc: analytics{UA-146867573-1}
+= Useful links and blog details 
+
+I pen down some of useful links and articles in this section. I often write at [https://medium.com/@msharmavikram medium] on various topics that you might be interested in. 
+
+: {*[https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html How to read a paper]*}
+: {*[https://github.com/sindresorhus/awesome Awesome-lists]*}
+: {*[https://github.com/amix/vimrc Awesome-vimrc]*} 
+: {*[http://cwfletcher.net/Pages/Thoughts.php Fellowship, personal statements and others from Prof Chris Fletcher]*}
+
+
+Some old posts
+: {*[archive/mtechproject.html MTech Thesis Project Ideas in VLSI, Nov 2017]*}
+: {*[archive/comparchproject.html Research Topics in Computer Architecture, Nov 2017]*}
