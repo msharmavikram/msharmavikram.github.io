@@ -18,7 +18,9 @@ Graph Challenge contest has been evolving since three years. Since 2019, graph c
 
 
 : {*GPU Mircobenchmarking*}
-We are building a set of observed statistics such as memory bandwidth, power consumption and others, on various generation of GPUs to understand how it has evolved over time. This project essentially involved writing microbenchmarks and creating plots for microarchitectural details using our internal libraries. The overall vision is to generate these stats to build an estimated GPU model for the future generation. 
+We are building a set of measured statistics (memory bandwidth, power consumption, and others) on various generation of GPUs to understand how it has evolved over time. 
+This project essentially involves writing microbenchmarks and creating plots for microarchitectural details using our internal libraries. 
+The overall vision is to generate these stats to build an estimated GPU model for the future generation. 
 \n\n*Programming skills:* Python, CUDA, C++ and data structures.
 
 
