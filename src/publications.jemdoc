@@ -7,7 +7,7 @@
 : {*DeepStore: In-Storage Acceleration for Intelligent Queries*}
 Vikram Sharma Mailthody\*, Zaid Qureshi\*, Weixin Liang, Ziyan Feng, SimonGarcia de Gonzalo, Youjie Li, Hubertus Franke, Jinjun Xiong, Jian Huang,and Wen-mei Hwu. \n
 /MICRO'19/ ***(acceptance rate: 79/344 = 22.9%)***\n
-[publications/paper/paper-deepstore-micro19.pdf \[paper\]] [publications/slides/slides-deepstore-micro19.pptx] [publications/poster/poster-deepstore-micro19.pptx] [https://www.youtube.com/watch?v=tARba2y9iH8 \[Lightning Talk\]] [publications/bib/bib-deepstore-micro19.bib \[bibtex\]] 
+[publications/paper/paper-deepstore-micro19.pdf \[paper\]] [publications/slides/slides-deepstore-micro19.pptx \[slides\]] [publications/poster/poster-deepstore-micro19.pdf \[poster\]] [https://www.youtube.com/watch?v=tARba2y9iH8 \[Lightning Talk\]] [publications/bib/bib-deepstore-micro19.bib \[bibtex\]] 
 
 : {*FlatFlash: Exploiting the Byte-Accessibility of SSDs Within a Unified Memory-Storage Hierarchy*}
 Ahmed Abulila, Vikram Sharma Mailthody, Zaid Qureshi, Jian Huang, Nam Sung Kim, Jinjun Xiong, and Wen-mei Hwu. \n
