@@ -3,9 +3,14 @@
 = Publications
 
 == Papers
+: {*EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal In GPUs*}
+Seung Won Min, Vikram Sharma Mailthody, Zaid Qureshi, Jinjun Xiong, Eiman Ebrahimi, and Wen-mei Hwu
+[publications/paper/paper-emogi-arxiv.pdf \[paper\]] [publications/bib/bib-emogi-arxiv.bib \[bibtex\]] 
+
+
 
 : {*DeepStore: In-Storage Acceleration for Intelligent Queries*}
-Vikram Sharma Mailthody\*, Zaid Qureshi\*, Weixin Liang, Ziyan Feng, SimonGarcia de Gonzalo, Youjie Li, Hubertus Franke, Jinjun Xiong, Jian Huang,and Wen-mei Hwu. \n
+Vikram Sharma Mailthody\*, Zaid Qureshi\*, Weixin Liang, Ziyan Feng, SimonGarcia de Gonzalo, Youjie Li, Hubertus Franke, Jinjun Xiong, Jian Huang, and Wen-mei Hwu. \n
 /MICRO'19/ ***(acceptance rate: 79/344 = 22.9%)***\n
 [publications/paper/paper-deepstore-micro19.pdf \[paper\]] [publications/slides/slides-deepstore-micro19.pptx \[slides\]] [publications/poster/poster-deepstore-micro19.pdf \[poster\]] [https://www.youtube.com/watch?v=tARba2y9iH8 \[Lightning Talk\]] [publications/bib/bib-deepstore-micro19.bib \[bibtex\]] 
 
