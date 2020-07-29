@@ -31,12 +31,12 @@ Mert Hidayetoglu, Carl Pearson, Vikram Sharma Mailthody, Eiman Ebrahimi, Jinjun 
 : {*Update on k-truss Decomposition on GPU*}
 Mohammad Almasri, Omer Anjum, Carl Pearson, Zaid Qureshi, Vikram Sharma Mailthody, Rakesh Nagi, Jinjun Xiong, Wen-mei Hwu. \n
 /HPEC'19 *Student Innovation Award*/\n
-[publications/paper/paper-graphchallengektruss-hpec19.pdf \[short paper\]] [publications/poster/poster-graphchallengektruss-hpec19.pdf \[poster (TBA)\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\]]
+[publications/paper/paper-graphchallengektruss-hpec19.pdf \[short paper\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\]]
 
 : {*Update on Triangle Counting on GPU*}
 Carl Pearson, Mohammad Almasri, Omer Anjum, Vikram Sharma Mailthody, Zaid Qureshi, Rakesh Nagi, Jinjun Xiong, Wen-mei Hwu. \n
 /HPEC'19 *Graph Challenge Honorable Mention*/\n
-[publications/paper/paper-graphchallengetc-hpec19.pdf \[short paper\]] [publications/poster/poster-graphchallengetc-hpec19.pdf \[poster(TBA)\]] [publications/bib/bib-graphchallengetc-hpec19.bib \[bibtex\]]
+[publications/paper/paper-graphchallengetc-hpec19.pdf \[short paper\]] [publications/bib/bib-graphchallengetc-hpec19.bib \[bibtex\]]
 
 
 : {*Collaborative (CPU+ GPU) algorithms for triangle counting and truss decomposition*}
