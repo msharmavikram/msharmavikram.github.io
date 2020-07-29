@@ -3,8 +3,16 @@
 = Publications
 
 == Papers
+
+: {*I-BERT: Inductive Generalization of Transformer to Arbitrary Context Lengths*}
+Hyoungwook Nam, Seung Byum Seo, Vikram Sharma Mailthody, Noor Michael, Lan Li \n
+/Under Submission/\n
+[publications/paper/paper-ibert-arxiv.pdf \[paper\]] [publications/bib/bib-ibert-arxiv.bib \[bibtex\]] 
+
+
 : {*EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal In GPUs*}
 Seung Won Min, Vikram Sharma Mailthody, Zaid Qureshi, Jinjun Xiong, Eiman Ebrahimi, and Wen-mei Hwu. \n
+/Under Submission/\n
 [publications/paper/paper-emogi-arxiv.pdf \[paper\]] [publications/bib/bib-emogi-arxiv.bib \[bibtex\]] 
 
 
