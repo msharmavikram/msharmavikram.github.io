@@ -15,6 +15,10 @@ Seung Won Min, Vikram Sharma Mailthody, Zaid Qureshi, Jinjun Xiong, Eiman Ebrahi
 /Under Submission/\n
 [publications/paper/paper-emogi-arxiv.pdf \[paper\]] [publications/bib/bib-emogi-arxiv.bib \[bibtex\]] 
 
+: {*Tearning Down The Memory Wall*}
+Zaid Qureshi\*, Vikram Sharma Mailthody\*, Seung Won Min\*, I-Hsin Chung, Jinjun Xiong, and Wen-mei Hwu. \n
+/TECHCON'20/ \n
+[publications/paper/paper-erudite-arxiv.pdf \[paper\]] [publications/bib/bib-erudite-arxiv.bib \[bibtex\]]  
 
 
 : {*DeepStore: In-Storage Acceleration for Intelligent Queries*}
@@ -28,12 +32,12 @@ Ahmed Abulila, Vikram Sharma Mailthody, Zaid Qureshi, Jian Huang, Nam Sung Kim, 
 [publications/paper/paper-flatflash-asplos19.pdf \[paper\]] [publications/slides/slides-flatflash-asplos19.pptx \[slides\]] [publications/poster/poster-flatflash-asplos19.pdf \[poster\]] [https://www.youtube.com/watch?v=QTmGx9-lLvM \[Lightning Talk\]] [publications/bib/bib-flatflash-asplos19.bib \[bibtex\]] 
 
 
-== Short Papers and Posters
+== Competition Papers and Posters
 
 : {*Efficient Inference on GPUs for the Sparse Deep Neural Network Graph Challenge 2020*}
 Mert Hidayetoglu, Carl Pearson, Vikram Sharma Mailthody, Eiman Ebrahimi, Jinjun Xiong, Rakesh Nagi, Wen-mei W Hwu. \n
 /Under Submission/\n
-[publications/paper/paper-sparsednn-arxiv.pdf \[short paper\]] [publications/paper/paper-sparsednn-arxiv.pdf \[poster (TBA)\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\]]
+[publications/paper/paper-sparsednn-arxiv.pdf \[short paper\]] [publications/paper/paper-sparsednn-arxiv.pdf \[poster (TBA)\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\] [https://github.com/merthidayetoglu/SpDNN_Challenge2020 \[code\]]
 
 
 : {*Update on k-truss Decomposition on GPU*}
