@@ -13,7 +13,7 @@ Hyoungwook Nam, Seung Byum Seo, Vikram Sharma Mailthody, Noor Michael, Lan Li \n
 : {*EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal In GPUs*}
 Seung Won Min, Vikram Sharma Mailthody, Zaid Qureshi, Jinjun Xiong, Eiman Ebrahimi, and Wen-mei Hwu. \n
 /Proceedings of VLDB 2020/\n
-[www.vldb.org/pvldb/vol14/p114-min.pdf \[paper\]] [publications/bib/bib-emogi-vldb.bib \[bibtex\]] [https://github.com/illinos-impact/EMOGI \[code\]]
+[publications/paper/paper-emogi-vldb21.pdf \[paper\]] [publications/bib/bib-emogi-vldb.bib \[bibtex\]] [https://github.com/illinos-impact/EMOGI \[code\]]
 
 : {*Tearning Down The Memory Wall*}
 Zaid Qureshi\*, Vikram Sharma Mailthody\*, Seung Won Min\*, I-Hsin Chung, Jinjun Xiong, and Wen-mei Hwu. \n
