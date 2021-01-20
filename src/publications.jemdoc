@@ -37,7 +37,8 @@ Ahmed Abulila, Vikram Sharma Mailthody, Zaid Qureshi, Jian Huang, Nam Sung Kim, 
 : {*Efficient Inference on GPUs for the Sparse Deep Neural Network Graph Challenge 2020*}
 Mert Hidayetoglu, Carl Pearson, Vikram Sharma Mailthody, Eiman Ebrahimi, Jinjun Xiong, Rakesh Nagi, Wen-mei W Hwu. \n
 /HPEC'20 *SparseDNN Graph Challenge Championship Award*/\n
-[publications/paper/paper-sparsednn-arxiv.pdf \[short paper\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\] [https://github.com/merthidayetoglu/SpDNN_Challenge2020 \[code\]]
+[publications/paper/paper-sparsednn-arxiv.pdf \[short paper\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\] [\[code(TBD)\]]
+# [publications/paper/paper-sparsednn-arxiv.pdf \[short paper\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\] [https://github.com/merthidayetoglu/SpDNN_Challenge2020 \[code\]]
 
 
 : {*Update on k-truss Decomposition on GPU*}
