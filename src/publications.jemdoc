@@ -13,7 +13,7 @@ Vikram Sharma Mailthody, James Wei, Nicholas Chen, Mohammad Behnia, Ruihao Yao, 
 
 : {*I-BERT: Inductive Generalization of Transformer to Arbitrary Context Lengths*}
 Hyoungwook Nam, Seung Byum Seo, Vikram Sharma Mailthody, Noor Michael, Lan Li \n
-/Under Submission/\n
+/Arxiv June 2020/\n
 [publications/paper/paper-ibert-arxiv.pdf \[paper\]] [publications/bib/bib-ibert-arxiv.bib \[bibtex\]] 
 
 : {*EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal In GPUs*}
@@ -40,7 +40,7 @@ Ahmed Abulila, Vikram Sharma Mailthody, Zaid Qureshi, Jian Huang, Nam Sung Kim, 
 
 == Competition Papers and Posters
 
-: {*Efficient Inference on GPUs for the Sparse Deep Neural Network Graph Challenge 2020*}
+: {*At-scale Sparse Deep Neural Network with Efficient GPU implementation*}
 Mert Hidayetoglu, Carl Pearson, Vikram Sharma Mailthody, Eiman Ebrahimi, Jinjun Xiong, Rakesh Nagi, Wen-mei W Hwu. \n
 /HPEC'20 *SparseDNN Graph Challenge Championship Award*/\n
 [publications/paper/paper-sparsednn-arxiv.pdf \[short paper\]] [publications/bib/bib-graphchallengektruss-hpec19.bib \[bibtex\]] [https://github.com/merthidayetoglu/SpDNN_Challenge2020 \[code\]]
@@ -80,8 +80,8 @@ Sitao Huang, Mohamed El-Hadedy, Cong Hao, Qin Li, Vikram Sharma Mailthody, Ketan
 
 : {*A system and methodology for implementing a Unified Memory-Storage Architecture with Byte-Addressable SSD*}
 Ahmed Abulila, Vikram Sharma Mailthody, Zaid Qureshi, Jian Huang, Nam Sung Kim,  Jinjun Xiong, Wen-Mei Hwu\n
-/US App No: US16447914./\n
+/US Patent No: US11074189./\n
 
 : {*Systolic array of pipelined processing engines for implementing dynamic programming algorithms*}
 Saurabh Patil, Srajudheen Makkadayil, Rekha Manjunath, Tarjinder Singh, Vikram Sharma Mailthody, Intel Corporation\n
-/Patent No: US15853303./\n
+/US Patent No: US11003620./\n
