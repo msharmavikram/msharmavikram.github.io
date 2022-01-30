@@ -20,17 +20,21 @@ Email: vsm2 at illinois dot edu\n
 ~~~
 
 == Short Bio
-Vikram is a PhD Candidate at Electrical and Computer Engineering Department  of University of Illinois, Urbana Champaign.
-His research interests spans from machine learning applications to system architecture and programming of emerging processors and memory technologies (NVM, SSDs, etc) for GPUs and near-memory/storage accelerators. His PhD work is concentrated on enabling efficient GPU or Accelerator-centric system architecture for emerging applications (refer [publications/paper/paper-erudite-arxiv.pdf Erudite] for more details). 
+Vikram is a final year PhD Candidate at Electrical and Computer Engineering Department  of University of Illinois, Urbana Champaign.
+Vikram's core research area is about breaking down the memory capacity and bandwidth wall both systematically and algorithmically at scale. 
+Vikram is also interested in disaggreated data center designs, non-volatile memories and SSD storage, near/in memory or storage accelerators, end-to-end system architecture and programming model for emerging programmable acceelerators. 
+#His research interests spans from machine learning applications to system architecture and programming of emerging processors and memory technologies (NVM, SSDs, etc) for GPUs and near-memory/storage accelerators. 
+His PhD work is concentrated on enabling efficient GPU or Accelerator-centric system architecture for emerging applications (refer [publications/paper/paper-erudite-arxiv.pdf Erudite] for more details). 
 
 Vikram currently works with the IMPACT Research Group led by Prof. Wen-mei Hwu. He is a recipient of Bahl Fellowship for 2019-21 and Dan Vivoli Endowed Fellowship for 2021-22.
 Prior to graduate program, he worked at Intel and LSI Corporation as Design engineer for three and one year, respectively. 
 He received his B.E. in Electronics and Communication Engineering at B.M.S College of Engineering, Bangalore.
 
-In his free time, Vikram is into photography, hiking or cooking delicious food (as other says).
+In his free time, Vikram is into photography, hiking or cooking delicious food.
 
 
 == Recent News
+: {*Dec 2021:* Two US patents granted!}
 : {*Jul 2021:* Received C3SR Best Research Award and C3SR Director's Distinguished Service Award for the work we did at [https://www.c3sr.com IBM-C3SR] initiative. Thank you everyone!} 
 : {*Apr 2021:* Received [https://ece.illinois.edu/academics/grad/fellowships/vivoli Dan Vivoli Endowed Fellowship] for the year 2021-22. Thank you!} 
 : {*Feb 2021:* Organizing Special COVID-19 Session in CSLSC'21. [https://studentconference.csl.illinois.edu/special-session-covid-19/ \[Link\]]}
