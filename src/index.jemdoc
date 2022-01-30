@@ -22,7 +22,7 @@ Email: vsm2 at illinois dot edu\n
 == Short Bio
 Vikram is a final year Ph.D. Candidate at Electrical and Computer Engineering Department of University of Illinois, Urbana Champaign. 
 Vikram's core research area proposes solutions to address the memory capacity and bandwidth challenges present in modern systems and accelerators. 
-Vikram is also interested in disaggregated data center designs, non-volatile memories and SSD storage, near/in memory or storage accelerators, end-to-end system architecture, and programming model for emerging programmable accelerators. 
+Vikram is also interested in disaggregated data center designs, non-volatile memories and SSD storage, near/in memory or storage accelerators, end-to-end system architecture, and programming model for emerging applications like deep learning, recommender systems and graph analytics. 
 His Ph.D. work discusses enabling efficient GPU or Accelerator-centric system architecture for emerging applications (refer to Erudite for more details).
 #His research interests spans from machine learning applications to system architecture and programming of emerging processors and memory technologies (NVM, SSDs, etc) for GPUs and near-memory/storage accelerators. 
 
