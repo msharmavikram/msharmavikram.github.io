@@ -20,23 +20,40 @@ Email: vsm2 at illinois dot edu\n
 ~~~
 
 == Short Bio
-Vikram is a final year Ph.D. Candidate at Electrical and Computer Engineering Department of University of Illinois, Urbana Champaign. 
-Vikram's core research area proposes solutions to address the memory capacity and bandwidth challenges present in modern systems and accelerators. 
-Vikram is also interested in disaggregated data center designs, non-volatile memories and SSD storage, near/in memory or storage accelerators, end-to-end system architecture, and programming model for emerging applications like deep learning, recommender systems, GNNs, and graph and data analytics. 
-His Ph.D. work discusses enabling efficient GPU or Accelerator-centric system architecture for emerging applications (refer to Erudite for more details).
-#His research interests spans from machine learning applications to system architecture and programming of emerging processors and memory technologies (NVM, SSDs, etc) for GPUs and near-memory/storage accelerators. 
+
+Vikram is a Research Scientist at [https://research.nvidia.com/ NVIDIA Research]. 
+He classifies him as systems and platform researcher and a computer architect focusing on GPU memory/storage system design. 
+He is interested in solving fundamental systems-level problems and proposing optimizations for emerging applications. 
+Vikram has extensive experience in memory and storage system design, GPUs, and performance optimizations for emerging applications like NLP, recommender systems, GNNs, and graph and data analytics. 
+Vikram holds a Ph.D. in [https://ece.illinois.edu/ Electrical and Computer Engineering] from the [https://illinois.edu/ University of Illinois, Urbana Champaign], in 2022. 
+He completed his dissertation under the supervision of [https://en.wikipedia.org/wiki/Wen-mei_Hwu Professor Wen-mei Hwu] at the [http://impact.crhc.illinois.edu IMPACT Research Group]. 
+In his dissertation, he discussed application support and adaptation for high-throughput accelerator orchestrated fine-grain storage access. 
+Vikram is a recipient of the [https://ece.illinois.edu/academics/grad/fellowships/bahl Bahl Fellowship] for 2019–21 and the [https://ece.illinois.edu/academics/grad/fellowships/vivoli Dan Vivoli Endowed Fellowship] for 2021–22 and has won several competitions, including the Championship award for the [http://graphchallenge.mit.edu/champions HPEC’20 Graph Challenge] and multiple student innovation awards in competitions. 
+His work has been featured in [https://www.theregister.com/2022/03/14/nvidia_gpu_data/ TheRegister], [https://www.tomshardware.com/news/nvidia-unveils-big-accelerator-memory-solid-state-storage-for-gpus TomsHardware], [https://www.pcgamer.com/nvidias-big-accelerator-memory-an-ssd-for-your-gpu/ PCGamer], [https://arstechnica.com/gadgets/2022/03/nvidia-wants-to-speed-up-data-transfer-by-connecting-data-center-gpus-to-ssds/ ArsTechnica], and [https://www.google.com/search?q=bam+big+accelerator+memory&oq=bam+big+accelerator+memory more]. 
 
 
-Vikram currently works with the IMPACT Research Group led by Prof. Wen-mei Hwu and at NVIDIA Research as a part-time research intern. 
-Vikram is a recipient of Bahl Fellowship for 2019-21 and Dan Vivoli Endowed Fellowship for 2021-22.
-Prior to graduate program, he worked at Intel and LSI Corporation as Design engineer for three and one year, respectively. 
-He received his B.E. in Electronics and Communication Engineering at B.M.S College of Engineering, Bangalore.
+#I am interested in achieving SOL performance by understanding the application (end-to-end), optimizing and then proposing/implementing novel software/hardware stack. 
+#Currently, I am looking into accelerator memory capacity and bandwidth challenges in emerging applications like deep learning, recommender systems, GNNs, and graph and data analytics. 
 
-In his free time, Vikram is into photography, hiking or cooking delicious food.
+#Vikram is a final year Ph.D. Candidate at Electrical and Computer Engineering Department of University of Illinois, Urbana Champaign. 
+#Vikram's core research area proposes solutions to address the memory capacity and bandwidth challenges present in modern systems and accelerators. 
+#Vikram is also interested in disaggregated data center designs, non-volatile memories and SSD storage, near/in memory or storage accelerators, end-to-end system architecture, and programming model for emerging applications like deep learning, recommender systems, GNNs, and graph and data analytics. 
+#His Ph.D. work discusses enabling efficient GPU or Accelerator-centric system architecture for emerging applications (refer to Erudite for more details).
+##His research interests spans from machine learning applications to system architecture and programming of emerging processors and memory technologies (NVM, SSDs, etc) for GPUs and near-memory/storage accelerators. 
+
+
+#Vikram currently works with the IMPACT Research Group led by Prof. Wen-mei Hwu and at NVIDIA Research as a part-time research intern. 
+#Vikram is a recipient of Bahl Fellowship for 2019-21 and Dan Vivoli Endowed Fellowship for 2021-22.
+#Prior to graduate program, he worked at Intel and LSI Corporation as Design engineer for three and one year, respectively. 
+#He received his B.E. in Electronics and Communication Engineering at B.M.S College of Engineering, Bangalore.
+#
+#In his free time, Vikram is into photography, hiking or cooking delicious food.
 
 
 == Recent News
-: {*Aug 2022:* I graduated from UIUC! Next step will be announced soon! }
+: {*Aug 2022:* Giving a tutorial talk on [https://mlsys.org/virtual/2022/tutorial/2199 Sparisty in ML] at MLSys'22. See you there!}
+: {*Aug 2022:* I have joined NVIDIA as Research Scientist.}
+: {*Aug 2022:* I graduated from UIUC! }
 : {*Jun 2022:* I defended my thesis. More about it will come in the future as the work is under submission!}
 : {*Dec 2021:* Two US patents granted!}
 : {*Jul 2021:* Received C3SR Best Research Award and C3SR Director's Distinguished Service Award for the work we did at [https://www.c3sr.com IBM-C3SR] initiative. Thank you everyone!} 
