@@ -51,6 +51,9 @@ His work has been featured in [https://www.theregister.com/2022/03/14/nvidia_gpu
 
 
 == Recent News
+: {*Feb 2023:* Illinois Graph Benchmark (IGB) dataset for training large-scale GNN models released publicly. [https://arxiv.org/abs/2302.13522 Paper] [https://github.com/IllinoisGraphBenchmark/IGB-Datasets Code]
+: {*Feb 2023:* Lightening talk of the BaM paper is now available [https://youtu.be/Kbx8scBu4b4 YouTube]. }
+: {*Sep 2022:* Our updated BaM paper is now accepted in ASPLOS'23 conference! BaM paper is now available [https://arxiv.org/abs/2203.04910 here].}
 : {*Aug 2022:* Giving a tutorial talk on [https://mlsys.org/virtual/2022/tutorial/2199 Sparisty in ML] at MLSys'22. See you there!}
 : {*Aug 2022:* I have joined NVIDIA as Research Scientist.}
 : {*Aug 2022:* I graduated from UIUC! }
